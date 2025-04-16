@@ -1,4 +1,4 @@
-# This is my first R coding class also the code can be exexuted  by using R consloe/ R script you can get it on this websites :-
+# This is my first R coding class also the code can be exexuted  by using R console/ R script you can get it on this websites :-
 ##  https://cran.r-project.org  / http://www.r-project.org    /  https://cloud.r-project.org  
 # x='Hello, World!"
 # x<- c(True,False,0,6)
